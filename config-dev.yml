@@ -1,1 +1,4 @@
 server.port=8763
+
+config:
+  info: 111
